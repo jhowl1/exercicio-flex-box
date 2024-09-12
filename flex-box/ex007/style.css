@@ -1,0 +1,41 @@
+*{/* RESET */
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    text-decoration: none;
+    }
+    .filho h2{
+        font-size: 25px;
+    }
+    .pai{
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+    }
+    body{
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content:center ;
+        flex-direction: column;
+       
+    }
+    .filho img{
+        width: 200px;
+        height: 200px;
+    }
+    .filho{
+        align-items: center;
+       justify-content: center;
+       display: flex;
+       flex-direction: column;
+       background-color: skyblue;
+    }
+    .filho ul li{
+        font-size: 10px;
+
+    }
+    

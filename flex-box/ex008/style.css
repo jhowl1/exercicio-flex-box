@@ -26,11 +26,15 @@ body{
    
 }
 .filho{
-    width: 200px; /* largura da imagem */
-    height: 200px;
-   background-color: darkkhaki;
+    width: 250px; /* largura da imagem */
+    height: 250px;
+   background-color: black;
+   color: aliceblue;
    text-align: center;
  padding: 25px; 
 
 }
+.filho button:hover{
+    background-color: aquamarine;
 
+}
