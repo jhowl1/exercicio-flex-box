@@ -1,0 +1,21 @@
+*{/* RESET */
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    }
+
+.filho img {
+ width: 200px; /* largura da imagem */
+    height: 200px;/* altura da imagem */
+    border-radius: 100%; /*  arredondar borda */
+    border: black 3px solid;/* adicionar borda*/
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;
+}
+.filho h1{
+    font-size: 25px;
+}
+.pai{
+    display: flex;
+    flex-direction: row;
+}

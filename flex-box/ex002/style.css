@@ -1,0 +1,27 @@
+.pai-de-todos{
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .filho{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .filho button{
+        width: 200px;
+        border: 2px black solid;
+        border-radius: 4px;
+        color: #fff;
+        padding: 10px 20px;
+        box-shadow: black 3px 3px 0px;
+        cursor: pointer;
+        background-color: black;
+    }
+    .filho button:hover{
+        background-color: blue;
+    }
+    
+   
+        
+    
